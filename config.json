@@ -1,0 +1,7 @@
+{
+  "app_name": "MyApp",
+  "version": "1.0",
+  "max_users": 100,
+  "enable_feature_x": true,
+  "timeout_seconds": 30
+}
